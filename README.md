@@ -5,7 +5,7 @@
 https://cocodataset.org/#download
 
 ### Requirements
-pytorch
-cv2
-matplotlib
+pytorch \n
+cv2 \n
+matplotlib \n
 
